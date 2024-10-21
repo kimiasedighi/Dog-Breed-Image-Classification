@@ -1,6 +1,3 @@
-
-# README for Dog Breed Image Classification
-
 ## Project Overview
 
 This project is designed to classify dog breeds from images using a Convolutional Neural Network (CNN). It leverages the TensorFlow and Keras libraries to build, train, and evaluate the deep learning model. The dataset used consists of dog breed images, which are preprocessed and divided into training, validation, and test sets.
