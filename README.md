@@ -62,4 +62,4 @@ The model's performance is tracked using accuracy and loss metrics, evaluated on
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to [Kimia Sedighi](mailto:your-email@example.com).
+If you have any questions or feedback, feel free to reach out to [Kimia Sedighi](mailto:kimiasedighi2000@gmail.com).
